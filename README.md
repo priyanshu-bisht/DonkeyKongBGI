@@ -1,5 +1,5 @@
 # 🦍 __Donkey Kong BGI__
-- Arcade Donkey Kong made with BGI Graphics in C/C++. It also keeps your score saved in a binary file and it gets displayed at the end screen.
+- Arcade Donkey Kong made with BGI in C/C++. It also keeps your score saved in a binary file and it gets displayed at the end screen.
 
 # 📦 __Prerequisites__
 - Download BGI graphics library
